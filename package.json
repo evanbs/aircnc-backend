@@ -1,0 +1,9 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:vandoenterprise/aircnc-backend.git",
+  "author": "Evandro Barbosa <evandro.barbosa@yahoo.com.br>",
+  "license": "MIT",
+  "private": false
+}
