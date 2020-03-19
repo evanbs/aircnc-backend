@@ -5,5 +5,18 @@
   "repository": "git@github.com:vandoenterprise/aircnc-backend.git",
   "author": "Evandro Barbosa <evandro.barbosa@yahoo.com.br>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.5",
+    "multer": "^1.4.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "nodemon": "^2.0.2"
+  }
 }
